@@ -1,0 +1,15 @@
+{
+  "name": "pig-game-app",
+  "version": "1.0.0",
+  "description": "Random dice roll game",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Christina Tran",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-nightly.535"
+  }
+}
