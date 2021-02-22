@@ -7,7 +7,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
   },
-  "author": "Christina Tran",
+  "author": "Christie Tran",
   "license": "ISC",
   "devDependencies": {
     "parcel": "^2.0.0-nightly.535"
